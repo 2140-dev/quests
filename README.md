@@ -1,0 +1,1 @@
+This repository contains open research questions the 2140 organization is interested in. If you have a passion for research and experimental development, you may want to give an attempt at these and share feedback.
