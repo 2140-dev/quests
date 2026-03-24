@@ -3,3 +3,5 @@ The [SwiftSync](https://github.com/2140-dev/swiftsync-bips/blob/master/swiftsync
 For a set of coins $A = \{Coin_{0}, .., Coin_{n}}$, we define $Agg_{A} = H_{salt}(Coin_{0}) + .. + H_{salt}(Coin_{n})$.
 
 Is it possible to show that this aggregate is provably secure against a probabilistic polynomial time algorithm? i.e. can an attacker create a set $B$, such that $Agg_{A} = Agg_{B}$ and $A \neq B$
+
+For more detail, see the [adHashT](./files/adHashT.pdf).
